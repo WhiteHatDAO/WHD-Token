@@ -1,2 +1,1 @@
-# WHD-Token
-Gov Token
+# Tax-Contract
